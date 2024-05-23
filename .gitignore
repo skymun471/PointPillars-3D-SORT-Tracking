@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+real_time_tracking_AB3DMOT/src/data/
+
 # Distribution / packaging
 .Python
 build/

@@ -1,0 +1,11 @@
+wheel
+scikit-learn
+filterpy
+numba
+matplotlib
+pillow
+opencv-python
+glob2
+PyYAML
+easydict
+llvmlite
