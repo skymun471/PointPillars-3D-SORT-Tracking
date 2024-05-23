@@ -11,7 +11,7 @@
 PointPillar(Not used mmdetection) + SORT
 
 ### Result
-<img src="/home/milab20/Videos/result.gif" alt="Result Video" width="500" height="300">
+![result2](https://github.com/skymun471/Ros-3D-Object-Tracking/assets/41955439/5844cc97-0b53-476d-871c-1dc16303d852)
 
 ### Requirements
 Ubuntu 20.04/ ROS Noetic
